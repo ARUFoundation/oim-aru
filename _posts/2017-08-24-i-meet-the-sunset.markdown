@@ -3,7 +3,7 @@ layout: post
 title:  Santiago de Huari
 date:   2017-08-24 13:32:20 +0300
 description: 
-img: huari.jpg # Add image post (optional)
+img: huari2.jpg
 tags: [Migración Interna]
 author: Fundación Aru
 ---
