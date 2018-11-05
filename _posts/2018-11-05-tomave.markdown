@@ -10,7 +10,7 @@ author: Fundación Aru
 
 <div style="float: left; width: 50%;">
 
-![Alt](https://arufoundation.github.io/oim-aru//assets/img/mun020302.pdf)
+<img src="https://arufoundation.github.io/oim-aru//assets/img/mun020302.pdf" />
 
 </div>
 
