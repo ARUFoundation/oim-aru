@@ -1,26 +1,23 @@
 title: Migración Interna, Tierras altas
 email: fundacion@aru.org.bo
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: 
 permalink: ':title/'
 baseurl: "https://arufoundation.github.io/oim-aru/" # the subpath of your site, e.g. /blog
 url: "https://arufoundation.github.io/oim-aru/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Fundación Aru # add your name
-author-pic: https://www.aru.org.bo/templates/forte/images/aru-web.jpg
-about-author: Investigación de Calidad Políticas basadas en evidencia
+author-pic: logoaru.jpg
+about-author: La Fundación Aru es un instituto de investigación de políticas públicas sin fines de lucro, independiente y plural. Su compromiso es producir y promover investigación local aplicada de alta calidad a partir de herramientas globales, que permita informar e influir en el debate sobre políticas públicas para incentivar la decisión en políticas públicas a partir de la evidencia científica. Creemos que las políticas más efectivas - aquellas que fomentan sociedades más vibrantes, sanas y cohesionadas y proporcionan oportunidades a las personas para construir mejores vidas - están basadas en el entendimiento de las realidades locales.
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
+email: fundacion@aru.org.bo
+phone: (591) 22004492
+website: www.aru.org.bo
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
-facebook: # Add your Facebook handle
+github: arufoundation # Add your Github handle
+twitter: '@AruFoundation' # Add your Twitter handle
+facebook: FundacionARU
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
