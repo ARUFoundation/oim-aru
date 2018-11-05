@@ -8,6 +8,7 @@ tags: [Migración Interna]
 author: Fundación Aru
 ---
 
+<div
 <div style="float: left; width: 50%;">
 
 <img src="https://arufoundation.github.io/oim-aru//assets/img/mun051202.pdf" width="70%" height="70%"/>
@@ -41,7 +42,7 @@ author: Fundación Aru
 				</li>
 	</ul>
 </div>	
-
+</div>	
 
 
 
