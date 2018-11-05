@@ -11,7 +11,6 @@ author: Fundación Aru
 # Información Básica del Municipio
 
 <div style="float: left; width: 50%;">
-<p>
 <img src="https://arufoundation.github.io/oim-aru//assets/img/mun051202.pdf" width="70%" height="70%"/>
 </div>
 
@@ -41,8 +40,6 @@ author: Fundación Aru
 					<a href="http://sice.ine.gob.bo/censofichacna/c_pdfm/generar_pdf/05/12/02/x" target="_blank" rel="nofollow">Ficha Municipal Censo Agropecuario 2013 (INE)</a>
 				</li>
 	</ul>
-
-	</p>
 </div>	
 
 
