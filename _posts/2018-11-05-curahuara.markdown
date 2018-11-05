@@ -7,3 +7,7 @@ img: curahuara.jpg # Add image post (optional)
 tags: [Migración Interna]
 author: Fundación Aru
 ---
+
+# Migración Interna
+
+## Migracion de toda la vida
