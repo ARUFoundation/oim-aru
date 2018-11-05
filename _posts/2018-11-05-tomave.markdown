@@ -7,8 +7,7 @@ img: tomave.jpg # Add image post (optional)
 tags: [Migración Interna]
 author: Fundación Aru
 ---
-
-<div
+<p>
 <div style="float: left; width: 50%;">
 
 <img src="https://arufoundation.github.io/oim-aru//assets/img/mun051202.pdf" width="70%" height="70%"/>
@@ -24,13 +23,6 @@ author: Fundación Aru
 				<li>
 					<span>Lenguas: </span> Aymara , Quechua, Español
 				</li>
-				<li>
-					<a href="http://censosbolivia.ine.gob.bo/censofichacomunidad/c_pdfm/generar_pdf/05/12/02/x" target="_blank" rel="nofollow">Ficha Municipal Censo de Población 2012 (INE)</a>
-				</li>
-				<li>
-					<a href="http://sice.ine.gob.bo/censofichacna/c_pdfm/generar_pdf/05/12/02/x" target="_blank" rel="nofollow">Ficha Municipal Censo Agropecuario 2013 (INE)</a>
-				</li>
-
 					<li>
 					<span>Área: </span> 0000
 				</li>
@@ -40,11 +32,15 @@ author: Fundación Aru
 					<li>
 					<span>Población proyectada, Enero 2019: </span> 0000
 				</li>
+				<li>
+					<a href="http://censosbolivia.ine.gob.bo/censofichacomunidad/c_pdfm/generar_pdf/05/12/02/x" target="_blank" rel="nofollow">Ficha Municipal Censo de Población 2012 (INE)</a>
+				</li>
+				<li>
+					<a href="http://sice.ine.gob.bo/censofichacna/c_pdfm/generar_pdf/05/12/02/x" target="_blank" rel="nofollow">Ficha Municipal Censo Agropecuario 2013 (INE)</a>
+				</li>
 	</ul>
 </div>	
-</div>	
-
-
+</p>
 
 
 # Migración Interna
