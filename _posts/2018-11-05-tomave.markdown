@@ -8,7 +8,7 @@ tags: [Migración Interna]
 author: Fundación Aru
 ---
 
-![Alt](mun020302.pdf)
+![Alt](https://arufoundation.github.io/oim-aru//assets/img/mun020302.pdf)
 
 # Información Básica
 
@@ -24,3 +24,6 @@ author: Fundación Aru
 ## Migracion de toda la vida
 
 ## Migracion reciente
+
+# Ficha Municipal
+Descarge la ficha municipal
