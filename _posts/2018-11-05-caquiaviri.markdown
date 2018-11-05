@@ -10,13 +10,18 @@ author: Fundación Aru
 
 # Información Básica del Municipio
 
-<p>
-<div style="float: left; width: 50%;">
+<div id="columns">
+<div class="one-half">
+<a href="https://smoolis.com" target="_blank"><img src="https://support.smoolis.com/markdown/1.jpg" alt="Image1" title="Image1" /></a>
+<h4>Column 1</h4>
+<p>This is the first of two columns, 50%.</p>
 </div>
-
-<div style="float: right; width: 50%;">
+<div class="one-half-last">
+<a href="https://smoolis.com" target="_blank"><img src="https://support.smoolis.com/markdown/2.jpg" alt="Image2" title="Image2" /></a>
+<h4>Column 2</h4>
+<p>This is the last of two columns, 50%.</p>
 </div>
-</p>
+</div>
 
 <img src="https://arufoundation.github.io/oim-aru//assets/img/mun051202.pdf" width="70%" height="70%"/>
 
