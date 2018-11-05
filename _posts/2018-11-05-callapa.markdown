@@ -7,3 +7,5 @@ img: santiago.jpg # Add image post (optional)
 tags: [Migración Interna]
 author: Fundación Aru
 ---
+
+<img src="https://arufoundation.github.io/oim-aru//assets/img/mun051202.pdf" width="70%" height="70%"/>

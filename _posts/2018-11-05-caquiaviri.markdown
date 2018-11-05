@@ -18,7 +18,7 @@ author: Fundación Aru
 </div>
 </p>
 
-![](https://arufoundation.github.io/oim-aru//assets/img/mun051202.pdf)
+<img src="https://arufoundation.github.io/oim-aru//assets/img/mun051202.pdf" width="70%" height="70%"/>
 
 # Migración Interna
 

@@ -8,6 +8,8 @@ tags: [Migración Interna]
 author: Fundación Aru
 ---
 
+<img src="https://arufoundation.github.io/oim-aru//assets/img/mun051202.pdf" width="70%" height="70%"/>
+
 # Migración Interna
 
 ## Migracion de toda la vida
