@@ -19,8 +19,7 @@ twitter: '@AruFoundation' # Add your Twitter handle
 facebook: FundacionARU
 
 # Newsletter
-mailchimp: # Add your MailChimp form identifier.
-
+mailchimp: fundacion@aru.org.bo
 # Disqus
 discus_identifier: mr-brown # Add your discus identifier
 
