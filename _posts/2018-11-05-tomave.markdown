@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Tomave
-date: 2017-08-21 13:32:20 +0300
-description: Municipio de Tomave, Departamento de Cochabmaba
+date: 2018-11-05
+description: Municipio de Tomave, Departamento de Potosi
 img: tomave.jpg # Add image post (optional)
 tags: [Migración Interna]
 author: Fundación Aru
@@ -32,30 +32,7 @@ author: Fundación Aru
 				</li>
 	</ul>
 	<ul><!-- right column -->
-				<li>
-					<span>Area ( &#39;000 Km&#178;):</span>799.0 <small>(2017)</small>
-				</li>
-				<li>
-					<span>Total Population (millions):</span>29.5 <small>(2017)</small>
-				</li>
-				<li class="start-of-group">
-					<span>GNI per Capita (US $):</span>480.0 <small>(2016)</small>
-				</li>
-				<li>
-					<span>Labor Force Participation - Total (%):</span>79.3 <small>(2017)</small>
-				</li>
-				<li>
-					<span>Sex Ratio (per 100 female):</span>95.9 <small>(2017)</small>
-				</li>
-				<li>
-					<span>Population Living Below $ 1.90 a  Day (% of Population):</span>68.7 <small>(2008)</small>
-				</li>
-	</ul>
-</div>	
-
-
-
-# Información Básica
+			# Información Básica
 
 * Alcalde: 
 * Principal Centro Poblado:
@@ -63,6 +40,13 @@ author: Fundación Aru
 * Área:
 * Población al 2012:
 * Poblacion Proyectada, Enero 2019:
+	
+	</ul>
+</div>	
+
+
+
+
 
 # Migración Interna
 
