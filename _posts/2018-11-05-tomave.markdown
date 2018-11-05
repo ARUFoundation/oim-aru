@@ -7,6 +7,9 @@ img: tomave.jpg # Add image post (optional)
 tags: [Migración Interna]
 author: Fundación Aru
 ---
+
+# Información Básica del Municipio
+
 <p>
 <div style="float: left; width: 50%;">
 
