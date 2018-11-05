@@ -11,36 +11,34 @@ author: Fundación Aru
 <div style="float: left; width: 50%;">
 
 <img src="https://arufoundation.github.io/oim-aru//assets/img/mun051202.pdf" width="70%" height="70%"/>
-
 </div>
 
 <div style="float: right; width: 50%;">
 	<ul><!-- left column -->
-			<li><span>President:</span>Filipe Jacinto Nyusi</li>
-			<li><span>Prime Minister:</span>Carlos Agostinho do Rosário</li>
+			<li><span>Alcalde: </span>  Nombre del Alcalde   </li>
+			
 				<li>
-					<span>Capital city:</span>Maputo 
-				</li>
-				<li>
-					<span>Languages:</span>Emakhuwa 25.3%, Portuguese (official) 10.7%, Xichangana 10.3%, Cisena 7.5%, Elomwe 7%, Echuwabo 5.1%, other Mozambican languages 30.1%, other 4% (1997 census) 
-				</li>
-				<li class="start-of-group">
-					<a href="http://www.portaldogoverno.gov.mz/" target="_blank" rel="nofollow">Government</a>
+					<span>Principal Centro Poblado: </span> Centro Poblado 
 				</li>
 				<li>
-					<a href="http://www.ine.gov.mz/" target="_blank" rel="nofollow">National statistics office</a>
+					<span>Lenguas: </span> Aymara , Quechua, Español
 				</li>
-	</ul>
-	<ul><!-- right column -->
-			# Información Básica
+				<li>
+					<a href="http://censosbolivia.ine.gob.bo/censofichacomunidad/c_pdfm/generar_pdf/05/12/02/x" target="_blank" rel="nofollow">Ficha Municipal Censo de Población 2012 (INE)</a>
+				</li>
+				<li>
+					<a href="http://sice.ine.gob.bo/censofichacna/c_pdfm/generar_pdf/05/12/02/x" target="_blank" rel="nofollow">Ficha Municipal Censo Agropecuario 2013 (INE)</a>
+				</li>
 
-* Alcalde: 
-* Principal Centro Poblado:
-* Lenguas: 
-* Área:
-* Población al 2012:
-* Poblacion Proyectada, Enero 2019:
-
+					<li>
+					<span>Área: </span> 0000
+				</li>
+					<li>
+					<span>Población 2012: </span> 0000
+				</li>
+					<li>
+					<span>Población proyectada, Enero 2019: </span> 0000
+				</li>
 	</ul>
 </div>	
 
