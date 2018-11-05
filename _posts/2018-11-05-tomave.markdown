@@ -43,10 +43,18 @@ author: Fundación Aru
 </div>	
 
 
-
 # Migracion de toda la vida
 
 ## Inmigrantes
+
+![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf)
+![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/yedui051202.pdf)
+![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/sexin051202.pdf)
+![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/actin051202.pdf)
+![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/ctin051202.pdf)
+![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agesin051202.pdf)
+![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agegin051202.pdf)
+![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/mpi051202.pdf)
 
 ## Permanentes
 
