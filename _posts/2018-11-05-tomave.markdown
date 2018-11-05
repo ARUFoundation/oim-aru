@@ -7,3 +7,18 @@ img: tomave.jpg # Add image post (optional)
 tags: [Migración Interna]
 author: Fundación Aru
 ---
+
+# Información Básica
+
+* Alcalde: 
+* Principal Centro Poblado:
+* Lenguas: 
+* Área:
+* Población al 2012:
+* Poblacion Proyectada, Enero 2019:
+
+# Migración Interna
+
+## Migracion de toda la vida
+
+## Migracion reciente
