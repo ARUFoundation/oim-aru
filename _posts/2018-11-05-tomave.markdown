@@ -8,9 +8,13 @@ tags: [Migración Interna]
 author: Fundación Aru
 ---
 
+<div style="float: left; width: 50%;">
+
 ![Alt](https://arufoundation.github.io/oim-aru//assets/img/mun020302.pdf)
 
-<div class="facts">
+</div>
+
+<div style="float: right; width: 50%;">
 	<ul><!-- left column -->
 			<li><span>President:</span>Filipe Jacinto Nyusi</li>
 			<li><span>Prime Minister:</span>Carlos Agostinho do Rosário</li>
@@ -47,7 +51,7 @@ author: Fundación Aru
 					<span>Population Living Below $ 1.90 a  Day (% of Population):</span>68.7 <small>(2008)</small>
 				</li>
 	</ul>
-</div>	</div>
+</div>	
 
 
 
