@@ -47,17 +47,43 @@ author: Fundación Aru
 
 
 <div style="text-align:center;margin:0 auto;width:100%;">
-<div style="width: 30%; float: left;margin:0px 15px 0px 15px;text-align:justify;"><img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/> </div><div style="width: 30%; float: left;margin:0px 15px 0px 0px;text-align:justify;"><img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/></div><div style="width: 30%; float: left;margin:0px 0px 0px 0px;text-align:justify;"><img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/></div>
+<div style="width: 33%; float: left"><img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/> </div><div style="width: 33%; float: left"><img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/></div><div style="width: 33%; float: left"><img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/></div>
 <div style="clear: both;"/>
 </div>
 
-<ul>
-   <li> <img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
-   <li> <img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
-   <li> <img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
-</ul>
-li  {width: 30%; float: left}
 
+<table>
+<tr>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
+<div>Texto 1</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
+<div>Texto 2</div>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
+<div>Texto 3</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
+<div>Texto 4</div>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
+<div>Texto 5</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
+<div>Texto 6</div>
+</td>
+</tr>
+</table>
 
 
 ## Inmigrantes
