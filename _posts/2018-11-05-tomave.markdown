@@ -45,6 +45,13 @@ author: Fundación Aru
 
 # Migracion de toda la vida
 
+
+<div style="text-align:center;margin:0 auto;width:100%;">
+<div style="width: 30%; float: left;margin:0px 15px 0px 15px;text-align:justify;"><img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/> </div><div style="width: 30%; float: left;margin:0px 15px 0px 0px;text-align:justify;"><img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/></div><div style="width: 30%; float: left;margin:0px 0px 0px 0px;text-align:justify;"><img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/></div>
+<div style="clear: both;"/>
+</div>
+
+
 ## Inmigrantes
 
 ![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf)
