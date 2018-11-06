@@ -59,36 +59,21 @@ author: Fundación Aru
 <div style="clear: both;"/>
 </div>
 
+## Componente Indígena
 
 <table>
 <tr>
 <td>
 <img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
-<div>Texto 1</div>
+<div>Inmigrantes/div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
-<div>Texto 2</div>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
-<div>Texto 3</div>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniap051202.pdf"/>
+<div>Permanentes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
-<div>Texto 4</div>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
-<div>Texto 5</div>
-</td>
-<td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
-<div>Texto 6</div>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniao051202.pdf"/>
+<div>Emigrantes</div>
 </td>
 </tr>
 </table>
