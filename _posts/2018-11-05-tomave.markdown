@@ -191,12 +191,17 @@ author: Fundación Aru
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/flujo051202.pdf"/>
-<div>Permanentes</div>
-</td>
-<td>
 <img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/mpo051202.pdf"/>
 <div>Emigrantes</div>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/flujo051202.pdf"/>
+<div>Flujos de entradas y salidas</div>
 </td>
 </tr>
 </table>
