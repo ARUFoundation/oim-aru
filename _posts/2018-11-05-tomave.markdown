@@ -51,6 +51,14 @@ author: Fundación Aru
 <div style="clear: both;"/>
 </div>
 
+<ul>
+   <li> <img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
+   <li> <img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
+   <li> <img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
+</ul>
+li  {width: 30%; float: left}
+
+
 
 ## Inmigrantes
 
