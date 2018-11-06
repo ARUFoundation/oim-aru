@@ -45,27 +45,13 @@ author: Fundación Aru
 
 # Migracion de toda la vida
 
-
-<table width="100%">
-<tr>
-<td style="width:33%; text-align:top;"> <img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/> </td>
-<td style="width:33%; text-align:top;"><img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/> </td>
-<td style="width:33%; text-align:top;"><img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/> </td>
-</tr>
-</table>
-
-<div style="text-align:center;margin:0 auto;width:100%;">
-<div style="width: 33%; float: left"><img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/> </div><div style="width: 33%; float: left"><img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/></div><div style="width: 33%; float: left"><img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/></div>
-<div style="clear: both;"/>
-</div>
-
 ## Componente Indígena
 
 <table>
 <tr>
 <td>
 <img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf"/>
-<div>Inmigrantes/div>
+<div>Inmigrantes</div>
 </td>
 <td>
 <img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniap051202.pdf"/>
@@ -78,6 +64,25 @@ author: Fundación Aru
 </tr>
 </table>
 
+## Componente educativo
+
+
+<table>
+<tr>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/yedui051202.pdf"/>
+<div>Inmigrantes</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/yedup051202.pdf"/>
+<div>Permanentes</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/yeduo051202.pdf"/>
+<div>Emigrantes</div>
+</td>
+</tr>
+</table>
 
 ## Inmigrantes
 
