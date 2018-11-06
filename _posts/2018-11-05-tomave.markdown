@@ -13,7 +13,7 @@ author: Fundación Aru
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/mun051202.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/mun051202.pdf" width="70%" height="70%"/>
 </td>
 <td>
 
@@ -49,7 +49,7 @@ author: Fundación Aru
 
 # Migracion de toda la vida
 
-## Componente Indígena
+## Indentificación Indígena
 
 <table>
 <tr>
@@ -68,7 +68,7 @@ author: Fundación Aru
 </tr>
 </table>
 
-## Componente educativo
+## Años de Educación
 
 <table>
 <tr>
@@ -87,73 +87,121 @@ author: Fundación Aru
 </tr>
 </table>
 
-## Inmigrantes
+## Sexo
 
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/yedui051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/sexin051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/actin051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/ctin051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agesin051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agegin051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/mpi051202.pdf)
+<table>
+<tr>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/sexin051202.pdf"/>
+<div>Inmigrantes</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/sexper051202.pdf"/>
+<div>Permanentes</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/sexout051202.pdf"/>
+<div>Emigrantes</div>
+</td>
+</tr>
+</table>
 
-## Permanentes
+## Actividades Económicas
 
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniap051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/yedup051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/sexper051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/actper051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/ctp051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agesper051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agegper051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/flujo051202.pdf)
+<table>
+<tr>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/actin051202.pdf"/>
+<div>Inmigrantes</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/actper051202.pdf"/>
+<div>Permanentes</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/actout051202.pdf"/>
+<div>Emigrantes</div>
+</td>
+</tr>
+</table>
 
-## Emigrantes
+## Categoria Ocupacional
 
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniao051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/yeduo051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/sexout051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/actout051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/ctout051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agesout051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agegout051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mt/mpo051202.pdf)
+<table>
+<tr>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/ctin051202.pdf"/>
+<div>Inmigrantes</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/ctper051202.pdf"/>
+<div>Permanentes</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/ctout051202.pdf"/>
+<div>Emigrantes</div>
+</td>
+</tr>
+</table>
+
+## Distribución de edad (quinquenios)
+
+<table>
+<tr>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agesin051202.pdf"/>
+<div>Inmigrantes</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agesper051202.pdf"/>
+<div>Permanentes</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agesout051202.pdf"/>
+<div>Emigrantes</div>
+</td>
+</tr>
+</table>
+
+## Distribución de edad (Grandes grupos)
+
+<table>
+<tr>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agegin051202.pdf"/>
+<div>Inmigrantes</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agegper051202.pdf"/>
+<div>Permanentes</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agegout051202.pdf"/>
+<div>Emigrantes</div>
+</td>
+</tr>
+</table>
+
+## Distribución espacial y flujos de la migración
+
+<table>
+<tr>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/mpi051202.pdf"/>
+<div>Inmigrantes</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/flujo051202.pdf"/>
+<div>Permanentes</div>
+</td>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/mpo051202.pdf"/>
+<div>Emigrantes</div>
+</td>
+</tr>
+</table>
 
 # Migracion reciente
-
-## Inmigrantes
-
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/etniai051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/yedui051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/sexin051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/actin051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/ctin051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agesin051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agegin051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/mpi051202.pdf)
-
-## Permanentes
-
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/etniap051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/yedup051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/sexper051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/actper051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/ctp051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agesper051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agegper051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/flujo051202.pdf)
-
-## Emigrantes
-
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/etniao051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/yeduo051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/sexout051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/actout051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/ctout051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agesout051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agegout051202.pdf)
-![](https://arufoundation.github.io/oim-aru//assets/img/fig/mr/mpo051202.pdf)
 
 # Clima 
 
