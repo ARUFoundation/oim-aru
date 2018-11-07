@@ -47,7 +47,7 @@ author: Fundación Aru
 </tr>
 </table>
 
-# Migracion de toda la vida
+# Migración de toda la vida
 
 ## Indentificación Indígena
 
@@ -187,11 +187,11 @@ author: Fundación Aru
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/mpi051202.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/mpi051202.jpg"/>
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/mpo051202.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/mpo051202.jpg"/>
 <div>Emigrantes</div>
 </td>
 </tr>
@@ -200,13 +200,13 @@ author: Fundación Aru
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/flujo051202.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/flujo051202.pdf" align="middle"/>
 <div>Flujos de entradas y salidas</div>
 </td>
 </tr>
 </table>
 
-# Migracion reciente
+# Migración reciente
 
 # Clima 
 
