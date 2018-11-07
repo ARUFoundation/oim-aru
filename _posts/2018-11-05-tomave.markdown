@@ -197,10 +197,10 @@ author: Fundación Aru
 </tr>
 </table>
 
-<table>
+<table align="middle">
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/flujo051202.pdf" align="middle"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/flujo051202.pdf" />
 <div>Flujos de entradas y salidas</div>
 </td>
 </tr>
