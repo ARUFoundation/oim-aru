@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Curahura de Carangas
-date:   2017-08-23 13:32:20 +0300
+date:   2018-11-05
 description: Municipio de Curahurara de Carangas, Departamento de Oruro
 img: curahuara.jpg # Add image post (optional)
 tags: [Migración Interna]
@@ -18,28 +18,31 @@ author: Fundación Aru
 <td>
 
 <ul><!-- left column -->
-			<li><span>Alcalde: </span>  Nombre del Alcalde   </li>
+			<li><span>Alcalde: </span>  Nelson Contreras Villaca </li>
 			
 				<li>
-					<span>Principal Centro Poblado: </span> Centro Poblado 
-				</li>
-				<li>
-					<span>Lenguas: </span> Aymara , Quechua, Español
+					<span>Idiomas Materno: </span> Castellano 50%, Aymara 46%, Otros 4%. (INE, CNPV-2012)
 				</li>
 					<li>
-					<span>Área: </span> 0000
+					<span>Superficie: </span> 2782 km2
 				</li>
 					<li>
-					<span>Población 2012: </span> 0000
+					<span>Población 2012: </span> 4184 Hab. (INE, CNPV-2012)
 				</li>
 					<li>
-					<span>Población proyectada, Enero 2019: </span> 0000
+					<span>Población proyectada 2019: </span> 3538 Hab. (INE)
 				</li>
 				<li>
-					<a href="http://censosbolivia.ine.gob.bo/censofichacomunidad/c_pdfm/generar_pdf/05/12/02/x" target="_blank" rel="nofollow">Ficha Municipal Censo de Población 2012 (INE)</a>
+					<a href="http://censosbolivia.ine.gob.bo/censofichacomunidad/c_pdfm/generar_pdf/04/04/01/x" target="_blank" rel="nofollow">Ficha Municipal, Censo de Población 2012 (INE)</a>
 				</li>
 				<li>
-					<a href="http://sice.ine.gob.bo/censofichacna/c_pdfm/generar_pdf/05/12/02/x" target="_blank" rel="nofollow">Ficha Municipal Censo Agropecuario 2013 (INE)</a>
+					<a href="http://sice.ine.gob.bo/censofichacna/c_pdfm/generar_pdf/04/04/01/x" target="_blank" rel="nofollow">Ficha Municipal, Censo Agropecuario 2013 (INE)</a>
+				</li>
+				<li>
+					<a href="https://arufoundation.github.io/oim-aru//assets/img/fichas/fichasdep_040401_v3.pdf" target="_blank" rel="nofollow">Ficha Municipal, Migracion de Toda la Vida 2012 (ARU)</a>
+				</li>
+				<li>
+					<a href="https://arufoundation.github.io/oim-aru//assets/img/fichas/mrmun_040401_v2.pdf" target="_blank" rel="nofollow">Ficha Municipal, Migracion Reciente 2012 (ARU)</a>
 				</li>
 	</ul>
 
@@ -364,16 +367,4 @@ author: Fundación Aru
 <div>Flujos de entradas y salidas</div>
 </td>
 </tr>
-</table>
-
-# Clima 
-
-# Ficha Municipal de Migración
-
-## Migración de toda la Vida 2012
-
-[Descarge la ficha municipal](https://arufoundation.github.io/oim-aru//assets/img/fichas/fichasdep_040401.pdf)  
-
-## Migración Reciente 2012
-
-[Descarge la ficha municipal](https://arufoundation.github.io/oim-aru//assets/img/fichas/mrmun_040401.pdf)  
+</table> 

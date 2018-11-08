@@ -21,16 +21,16 @@ author: Fundación Aru
 			<li><span>Alcalde: </span>  Victor Honorio Calle </li>
 			
 				<li>
-					<span>Idiomas Materno: </span> Aymara 79%, Castellano 17%, Otros 4%. INE, CNPV-2012
+					<span>Idiomas Materno: </span> Aymara 79%, Castellano 17%, Otros 4%. (INE, CNPV-2012)
 				</li>
 					<li>
 					<span>Superficie: </span> 1226,1 km2
 				</li>
 					<li>
-					<span>Población 2012: </span> 7289 Hab. INE, CNPV-2012
+					<span>Población 2012: </span> 7289 Hab. (INE, CNPV-2012)
 				</li>
 					<li>
-					<span>Población proyectada 2019: </span> 6984 Hab. INE
+					<span>Población proyectada 2019: </span> 6984 Hab. (INE)
 				</li>
 				<li>
 					<a href="http://censosbolivia.ine.gob.bo/censofichacomunidad/c_pdfm/generar_pdf/02/03/08/x" target="_blank" rel="nofollow">Ficha Municipal, Censo de Población 2012 (INE)</a>

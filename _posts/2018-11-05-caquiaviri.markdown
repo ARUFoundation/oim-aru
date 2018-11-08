@@ -21,16 +21,16 @@ author: Fundación Aru
 			<li><span>Alcalde: </span>  Edmundo Pezas Condori </li>
 			
 				<li>
-					<span>Idiomas Materno: </span> Aymara 72%, Castellano 24%, Otros 4%. INE, CNPV-2012
+					<span>Idiomas Materno: </span> Aymara 72%, Castellano 24%, Otros 4%. (INE, CNPV-2012)
 				</li>
 					<li>
 					<span>Superficie: </span> 1572.9 km2
 				</li>
 					<li>
-					<span>Población 2012: </span> 14687 Hab. INE, CNPV-2012
+					<span>Población 2012: </span> 14687 Hab. (INE, CNPV-2012)
 				</li>
 					<li>
-					<span>Población proyectada 2019: </span> 15372 Hab. INE
+					<span>Población proyectada 2019: </span> 15372 Hab. (INE)
 				</li>
 				<li>
 					<a href="http://censosbolivia.ine.gob.bo/censofichacomunidad/c_pdfm/generar_pdf/02/03/02/x" target="_blank" rel="nofollow">Ficha Municipal, Censo de Población 2012 (INE)</a>
@@ -39,10 +39,10 @@ author: Fundación Aru
 					<a href="http://sice.ine.gob.bo/censofichacna/c_pdfm/generar_pdf/02/03/02/x" target="_blank" rel="nofollow">Ficha Municipal, Censo Agropecuario 2013 (INE)</a>
 				</li>
 				<li>
-					<a href="https://arufoundation.github.io/oim-aru//assets/img/fichas/fichasdep_020302.pdf" target="_blank" rel="nofollow">Ficha Municipal, Migracion de Toda la Vida 2012 (ARU)</a>
+					<a href="https://arufoundation.github.io/oim-aru//assets/img/fichas/fichasdep_020302_v3.pdf" target="_blank" rel="nofollow">Ficha Municipal, Migracion de Toda la Vida 2012 (ARU)</a>
 				</li>
 				<li>
-					<a href="https://arufoundation.github.io/oim-aru//assets/img/fichas/mrmun_020302.pdf" target="_blank" rel="nofollow">Ficha Municipal, Migracion Reciente 2012 (ARU)</a>
+					<a href="https://arufoundation.github.io/oim-aru//assets/img/fichas/mrmun_020302_v2.pdf" target="_blank" rel="nofollow">Ficha Municipal, Migracion Reciente 2012 (ARU)</a>
 				</li>
 	</ul>
 
