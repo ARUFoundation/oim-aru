@@ -2,7 +2,26 @@
   <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}" class="author-img">
   <div class="author-desc">
     <h2>{{site.author}}</h2>
+    
+<table>
+<tbody>
+<tr>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/oim.jpg"/>
+</td>
+<td rowspan="2">
     <p>{{site.about-author}}</p>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/aru.jpg"/>
+</td>
+</tr>
+</tbody>
+</table>
+
+
     <ul>
       {% if site.email %}
         <li class="email"><a href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
