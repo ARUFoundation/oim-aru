@@ -71,6 +71,12 @@ author: Fundación Aru
 </tr>
 </table>
 
+Se considera **Indígena** si cumple con al menos una de las condiciones:
+
+* Se considera perteneciente a algún pueblo indígena originario campesino o afro boliviano,
+* Si su idioma materno pertenece a algún pueblo originario
+* Si dentro de los idiomas que habla se encuentra algún idioma perteneciente a algún pueblo originario
+
 ## Años de Educación
 
 <table>
@@ -89,6 +95,8 @@ author: Fundación Aru
 </td>
 </tr>
 </table>
+
+Se considero solamente a las personas de 15 años o más
 
 ## Sexo
 
@@ -128,6 +136,8 @@ author: Fundación Aru
 </tr>
 </table>
 
+Se considera únicamente a las 5 actividades mas frecuentes y para personas de 7 años o más, cuya condición de ocupación sea *Ocupado*
+
 ## Categoria Ocupacional
 
 <table>
@@ -146,6 +156,8 @@ author: Fundación Aru
 </td>
 </tr>
 </table>
+
+Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 
 ## Distribución de edad (quinquenios)
 
@@ -231,6 +243,12 @@ author: Fundación Aru
 </tr>
 </table>
 
+Se considera **Indígena** si cumple con al menos una de las condiciones:
+
+* Se considera perteneciente a algún pueblo indígena originario campesino o afro boliviano,
+* Si su idioma materno pertenece a algún pueblo originario
+* Si dentro de los idiomas que habla se encuentra algún idioma perteneciente a algún pueblo originario
+
 ## Años de Educación
 
 <table>
@@ -249,6 +267,8 @@ author: Fundación Aru
 </td>
 </tr>
 </table>
+
+Se considero solamente a las personas de 15 años o más
 
 ## Sexo
 
@@ -288,6 +308,8 @@ author: Fundación Aru
 </tr>
 </table>
 
+Se considera únicamente a las 5 actividades mas frecuentes y para personas de 7 años o más, cuya condición de ocupación sea *Ocupado*
+
 ## Categoria Ocupacional
 
 <table>
@@ -306,6 +328,8 @@ author: Fundación Aru
 </td>
 </tr>
 </table>
+
+Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 
 ## Distribución de edad (quinquenios)
 
