@@ -54,6 +54,13 @@ author: Fundación Aru
 
 ## Indentificación Indígena
 
+Se considera Indigena si cumple con al menos una de las condiciones:
+
+* Se considera perteneciente a algún pueblo indígena originario campesino o afro boliviano,
+* Si su idioma materno pertenece a algún pueblo originario
+* Si dentro de los idiomas que habla se encuentra algún idioma perteneciente a algún pueblo originario
+
+
 <table>
 <tr>
 <td>
