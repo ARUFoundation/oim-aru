@@ -392,3 +392,23 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 </td>
 </tr>
 </table>
+
+# Información climática 1987 - 2016
+
+<table>
+<tr>
+
+<td>
+
+<ul><!-- left column -->
+	<li><span>Estación: </span>   </li>
+	<li><span>Longitud: </span>   </li>
+	<li><span>Latitud: </span>   </li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<div w3-include-html="yocallatm.html"></div>
+<div w3-include-html="yocallapt.html"></div>
