@@ -411,14 +411,9 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 
 <script src="http://www.w3schools.com/lib/w3data.js"></script>
 
-<body>
-
 <div w3-include-html="https://arufoundation.github.io/oim-aru//assets/img/yocallatm.html"></div> 
 <div w3-include-html="https://arufoundation.github.io/oim-aru//assets/img/yocallatm.html"></div> 
 
 <script>
 w3IncludeHTML();
 </script>
-
-</body>
-
