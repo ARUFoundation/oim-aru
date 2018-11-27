@@ -409,11 +409,4 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 </tr>
 </table>
 
-<html>
-  <head>
-    <script src="csi.js"></script>
-  </head>
-  <body>
-    <div data-include="https://arufoundation.github.io/oim-aru//assets/img/yocallatm.html"></div>
-  </body>
-</html>
+ {% include Achirintm.html %}
