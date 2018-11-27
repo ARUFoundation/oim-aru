@@ -410,6 +410,6 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 <a href="https://arufoundation.github.io/oim-aru//assets/img/Achiript.html" target="_blank" rel="nofollow">Ver Figura</a>	
 	</li>
 </ul>
-
-
+</td>
+</tr>
 </table>

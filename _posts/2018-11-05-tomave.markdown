@@ -402,7 +402,7 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 
 <ul><!-- left column -->
 	<li><span>Estación más cercana:</span> Chaquilla  </li>
-	<li><span>Distancia al centro del Municipio (Km.): </span> 39</li>ç
+	<li><span>Distancia al centro del Municipio (Km.): </span> 39</li>
 	<li><span>Precipitación Pluvial (mm): </span> 
 <a href="https://arufoundation.github.io/oim-aru//assets/img/Chaquillapt.html" target="_blank" rel="nofollow"> Ver Figura</a>	
 	</li>
