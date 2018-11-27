@@ -393,7 +393,7 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 </tr>
 </table>
 
-# Información climática 1987 - 2016
+# Información climática 1981 - 2016
 
 <table>
 <tr>
@@ -410,5 +410,8 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 </tr>
 </table>
 
+<head>
+  <link rel="import" href="https://arufoundation.github.io/oim-aru//assets/img/yocallatm.html">
+</head>
 <div w3-include-html="https://arufoundation.github.io/oim-aru//assets/img/yocallatm.html"></div>
 <div w3-include-html="https://arufoundation.github.io/oim-aru//assets/img/yocallapt.html"></div>
