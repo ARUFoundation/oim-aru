@@ -401,9 +401,8 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 <td>
 
 <ul><!-- left column -->
-	<li><span>Estación: </span> Yocalla  </li>
-	<li><span>Longitud: </span>  -65.91027 </li>
-	<li><span>Latitud: </span>  -19.38888 </li>
+	<li><span>Estación más cercana:</span> Calacoto  </li>
+	<li><span>Distancia al centro del Municipio (Km.): </span> 79</li>
 </ul>
 
 </td>

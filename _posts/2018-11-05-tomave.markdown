@@ -401,21 +401,24 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 <td>
 
 <ul><!-- left column -->
-	<li><span>Estación: </span> Yocalla  </li>
-	<li><span>Longitud: </span>  -65.91027 </li>
-	<li><span>Latitud: </span>  -19.38888 </li>
+	<li><span>Estación más cercana:</span> Chaquilla  </li>
+	<li><span>Distancia al centro del Municipio (Km.): </span> 39</li>
 </ul>
 
 </td>
 </tr>
 </table>
 
-<html>
-  <head>
-    <script src="csi.js"></script>
-  </head>
-  <body>
-    <div data-include="https://arufoundation.github.io/oim-aru//assets/img/yocallatm.html"></div>
-  </body>
-</html>
+<script src="http://www.w3schools.com/lib/w3data.js"></script>
+
+<body>
+
+<div w3-include-html="https://arufoundation.github.io/oim-aru//assets/img/yocallatm.html"></div> 
+<div w3-include-html="https://arufoundation.github.io/oim-aru//assets/img/yocallatm.html"></div> 
+
+<script>
+w3IncludeHTML();
+</script>
+
+</body>
 
