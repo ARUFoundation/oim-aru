@@ -410,5 +410,5 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 </tr>
 </table>
 
-<div w3-include-html="yocallatm.html"></div>
-<div w3-include-html="yocallapt.html"></div>
+<div w3-include-html="https://arufoundation.github.io/oim-aru//assets/img/yocallatm.html"></div>
+<div w3-include-html="https://arufoundation.github.io/oim-aru//assets/img/yocallapt.html"></div>
