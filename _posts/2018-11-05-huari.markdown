@@ -403,23 +403,14 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 <ul><!-- left column -->
 	<li><span>Estación más cercana:</span> Yocalla  </li>
 	<li><span>Distancia al centro del Municipio (Km.): </span> 73</li>
+		<li><span>Temperatura Media (Cº): </span> 
+<a href="https://arufoundation.github.io/oim-aru//assets/img/yocallatm.html" target="_blank" rel="nofollow"> Ver Figura</a>
+	</li>
+	<li><span>Precipitación Pluvial (mm): </span> 
+<a href="https://arufoundation.github.io/oim-aru//assets/img/yocallapt.html" target="_blank" rel="nofollow"> Ver Figura</a>	
+	</li>
 </ul>
 
 </td>
 </tr>
 </table>
-
-<html>
-  <head>
-    <script src="csi.js"></script>
-  </head>
-  <body>
-    <div data-include="https://arufoundation.github.io/oim-aru//assets/img/yocallatm.html"></div>
-  </body>
-</html>
-
-<head>
-  <link rel="import" href="https://arufoundation.github.io/oim-aru//assets/img/yocallatm.html">
-</head>
-<div w3-include-html="https://arufoundation.github.io/oim-aru//assets/img/yocallatm.html"></div>
-<div w3-include-html="https://arufoundation.github.io/oim-aru//assets/img/yocallapt.html"></div>

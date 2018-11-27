@@ -404,10 +404,10 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 	<li><span>Estación más cercana: </span> Achirin  </li>
 	<li><span>Distancia al centro del Municipio (Km.): </span> 24</li>
 	<li><span>Temperatura Media (Cº): </span> 
-<a href="https://arufoundation.github.io/oim-aru//assets/img/Achirintm.html" target="_blank" rel="nofollow">Ver Figura</a>
+<a href="https://arufoundation.github.io/oim-aru//assets/img/Achiritm.html" target="_blank" rel="nofollow">Ver Figura</a>
 	</li>
 	<li><span>Precipitación Pluvial (mm): </span> 
-<a href="https://arufoundation.github.io/oim-aru//assets/img/Achirinpt.html" target="_blank" rel="nofollow">Ver Figura</a>	
+<a href="https://arufoundation.github.io/oim-aru//assets/img/Achiript.html" target="_blank" rel="nofollow">Ver Figura</a>	
 	</li>
 </ul>
 

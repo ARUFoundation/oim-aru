@@ -403,17 +403,14 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 <ul><!-- left column -->
 	<li><span>Estación más cercana:</span> Calacoto  </li>
 	<li><span>Distancia al centro del Municipio (Km.): </span> 79</li>
+		<li><span>Temperatura Media (Cº): </span> 
+<a href="https://arufoundation.github.io/oim-aru//assets/img/Calacototm.html" target="_blank" rel="nofollow"> Ver Figura</a>
+	</li>
+	<li><span>Precipitación Pluvial (mm): </span> 
+<a href="https://arufoundation.github.io/oim-aru//assets/img/Calacotopt.html" target="_blank" rel="nofollow"> Ver Figura</a>	
+	</li>
 </ul>
 
 </td>
 </tr>
 </table>
-
-<html>
-  <head>
-    <script src="csi.js"></script>
-  </head>
-  <body>
-    <div data-include="https://arufoundation.github.io/oim-aru//assets/img/yocallatm.html"></div>
-  </body>
-</html>
