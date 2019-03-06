@@ -13,7 +13,7 @@ author: Fundación Aru
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/mun020308.pdf" width="70%" height="70%"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/mun020308.jpg" width="70%" height="70%"/>
 </td>
 <td>
 
@@ -57,15 +57,15 @@ author: Fundación Aru
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniai020308.jpg"/>
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniap020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniap020308.jpg"/>
 <div>Permanentes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniao020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/etniao020308.jpg"/>
 <div>Emigrantes</div>
 </td>
 </tr>
@@ -82,15 +82,15 @@ Se considera **Indígena** si cumple con al menos una de las condiciones:
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/yedui020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/yedui020308.jpg"/>
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/yedup020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/yedup020308.jpg"/>
 <div>Permanentes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/yeduo020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/yeduo020308.jpg"/>
 <div>Emigrantes</div>
 </td>
 </tr>
@@ -103,15 +103,15 @@ Se considero solamente a las personas de 15 años o más
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/sexin020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/sexin020308.jpg"/>
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/sexper020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/sexper020308.jpg"/>
 <div>Permanentes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/sexout020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/sexout020308.jpg"/>
 <div>Emigrantes</div>
 </td>
 </tr>
@@ -122,15 +122,15 @@ Se considero solamente a las personas de 15 años o más
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/actin020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/actin020308.jpg"/>
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/actper020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/actper020308.jpg"/>
 <div>Permanentes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/actout020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/actout020308.jpg"/>
 <div>Emigrantes</div>
 </td>
 </tr>
@@ -143,15 +143,15 @@ Se considera únicamente a las 5 actividades mas frecuentes y para personas de 7
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/ctin020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/ctin020308.jpg"/>
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/ctper020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/ctper020308.jpg"/>
 <div>Permanentes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/ctout020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/ctout020308.jpg"/>
 <div>Emigrantes</div>
 </td>
 </tr>
@@ -164,15 +164,15 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agesin020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agesin020308.jpg"/>
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agesper020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agesper020308.jpg"/>
 <div>Permanentes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agesout020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agesout020308.jpg"/>
 <div>Emigrantes</div>
 </td>
 </tr>
@@ -183,15 +183,15 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agegin020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agegin020308.jpg"/>
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agegper020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agegper020308.jpg"/>
 <div>Permanentes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agegout020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/agegout020308.jpg"/>
 <div>Emigrantes</div>
 </td>
 </tr>
@@ -215,7 +215,7 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 <table align="middle">
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/flujo020308.pdf" />
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mt/flujo020308.jpg" />
 <div>Flujos de entradas y salidas</div>
 </td>
 </tr>
@@ -229,15 +229,15 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/etniai020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/etniai020308.jpg"/>
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/etniap020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/etniap020308.jpg"/>
 <div>Permanentes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/etniao020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/etniao020308.jpg"/>
 <div>Emigrantes</div>
 </td>
 </tr>
@@ -254,15 +254,15 @@ Se considera **Indígena** si cumple con al menos una de las condiciones:
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/yedui020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/yedui020308.jpg"/>
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/yedup020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/yedup020308.jpg"/>
 <div>Permanentes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/yeduo020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/yeduo020308.jpg"/>
 <div>Emigrantes</div>
 </td>
 </tr>
@@ -275,15 +275,15 @@ Se considero solamente a las personas de 15 años o más
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/sexin020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/sexin020308.jpg"/>
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/sexper020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/sexper020308.jpg"/>
 <div>Permanentes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/sexout020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/sexout020308.jpg"/>
 <div>Emigrantes</div>
 </td>
 </tr>
@@ -294,15 +294,15 @@ Se considero solamente a las personas de 15 años o más
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/actin020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/actin020308.jpg"/>
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/actper020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/actper020308.jpg"/>
 <div>Permanentes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/actout020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/actout020308.jpg"/>
 <div>Emigrantes</div>
 </td>
 </tr>
@@ -315,15 +315,15 @@ Se considera únicamente a las 5 actividades mas frecuentes y para personas de 7
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/ctin020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/ctin020308.jpg"/>
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/ctper020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/ctper020308.jpg"/>
 <div>Permanentes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/ctout020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/ctout020308.jpg"/>
 <div>Emigrantes</div>
 </td>
 </tr>
@@ -336,15 +336,15 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agesin020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agesin020308.jpg"/>
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agesper020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agesper020308.jpg"/>
 <div>Permanentes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agesout020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agesout020308.jpg"/>
 <div>Emigrantes</div>
 </td>
 </tr>
@@ -355,15 +355,15 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 <table>
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agegin020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agegin020308.jpg"/>
 <div>Inmigrantes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agegper020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agegper020308.jpg"/>
 <div>Permanentes</div>
 </td>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agegout020308.pdf"/>
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/agegout020308.jpg"/>
 <div>Emigrantes</div>
 </td>
 </tr>
@@ -387,7 +387,7 @@ Para personas de 7 años o más cuya condición de ocupación sea **Ocupado**
 <table align="middle">
 <tr>
 <td>
-<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/flujo020308.pdf" />
+<img src="https://arufoundation.github.io/oim-aru//assets/img/fig/mr/flujo020308.jpg" />
 <div>Flujos de entradas y salidas</div>
 </td>
 </tr>
